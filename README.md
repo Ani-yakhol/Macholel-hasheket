@@ -130,7 +130,3 @@ pyinstaller --noconsole --onedir --name VoiceMonitor ^
 לאחר ההרצה, כל מה שדרוש להפצה נמצא בתיקיית `dist\VoiceMonitor`. יש לדחוס
 את כל התיקייה (לא רק את קובץ ה-EXE) ולהעביר אותה כיחידה אחת למחשב היעד -
 היא תרוץ עצמאית ללא Python מותקן.
-
-
-# תמונות
-<img width="776" height="631" alt="מחולל השקט 1" src="https://github.com/user-attachments/assets/5f271139-76d3-4d1b-827d-277d1d1b71a7" />
